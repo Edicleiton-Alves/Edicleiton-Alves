@@ -12,9 +12,8 @@
   <img align="center" alt="Edicleiton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Edicleiton-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="right" alt="Edicleiton-yoda" height="120" width="120" src="http://deusdogif.com.br/Img/2/45/73d6428a1e3c706125b09723ddc5d851.gif">
-</div>
+</div> <br>
 
-  ##
 <div> 
   <a href = "mailto:edicleiton16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edicleitonalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
