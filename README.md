@@ -11,7 +11,6 @@
   <img align="center" alt="Edicleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edicleiton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Edicleiton-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="Edicleiton-yoda" height="120" width="120" src="http://deusdogif.com.br/Img/2/45/73d6428a1e3c706125b09723ddc5d851.gif">
 </div> <br>
 
 <div> 
