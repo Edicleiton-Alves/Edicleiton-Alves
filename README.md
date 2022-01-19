@@ -11,7 +11,7 @@
   <img align="center" alt="Edicleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edicleiton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Edicleiton-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Edicleiton-Python" height="30" width="40" src="https://travis-ci.com/Shashankreddysunkara/travis-docker-python.svg">
+  <img align="center" alt="Edicleiton-Python" height="30" width="40" src="https://img.icons8.com/dusk/512/000000/python.png">
 </div> <br>
 
 <div> 
